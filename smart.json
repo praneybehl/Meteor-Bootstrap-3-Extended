@@ -1,0 +1,9 @@
+{
+    "name": "bootstrap-3-extended",
+    "description": "Bootstrap 3.x Extended with Bootswatch.com Themes",
+    "homepage": "https://github.com/praneybehl/Meteor-Bootstrap-3-Extended",
+    "author": "Praney Behl (http://fishnjavascript.com)",
+    "version": "3.1.1",
+    "git": "https://github.com/praneybehl/Meteor-Bootstrap-3-Extended.git",
+    "packages": {}
+}
