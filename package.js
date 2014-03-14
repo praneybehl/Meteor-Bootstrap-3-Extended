@@ -7,8 +7,8 @@ Package.on_use(function (api) {
 
     var path = Npm.require('path');
     var asset_path = path.join('bootstrap');
-    api.add_files(path.join(asset_path, 'css', 'bootstrap.min.css'), 'client');
-    api.add_files(path.join(asset_path, 'js', 'bootstrap.min.js'), 'client');
+    api.add_files(path.join(asset_path, 'css', 'bootstrap.css'), 'client');
+    api.add_files(path.join(asset_path, 'js', 'bootstrap.js'), 'client');
 
     // fonts
     api.add_files(path.join(asset_path, 'fonts', 'glyphicons-halflings-regular.eot'), 'client');
